@@ -1,4 +1,4 @@
-# form_validations
+# Form validations
 Form validations with Rxjs and Folktale
 
 Using Rxjs Observables to listen to DOM events and the Folktale/Validations module to validate inputs.
